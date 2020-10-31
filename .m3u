@@ -1,3 +1,11 @@
+#EXTINF:-1,Netflix Action
+http://sarhantv.myq-see.com:25461/live/test/test/57.m3u8
+#EXTINF:-1,Netflix Drama
+http://sarhantv.myq-see.com:25461/live/test/test/59.m3u8
+#EXTINF:-1,Netflix comedy 
+http://sarhantv.myq-see.com:25461/live/test/test/58.m3u8
+#EXTINF:-1,Netflix Horror
+http://sarhantv.myq-see.com:25461/live/test/test/60.m3u8
 #EXTINF:-1 tvg-logo="http://pici.life/FR/tf1hd.png" group-title="My TVFun",TF1 FHD
 http://mytv.fun:8080/h9z4yofz8p/zpzqms0zcb/12857
 
